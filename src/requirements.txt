@@ -1,0 +1,10 @@
+Django
+celery[librabbitmq,redis,auth,msgpack]
+requests
+qiniu
+pyquery
+redis
+Markdown
+PyMySQL
+Twisted
+djangorestframework
